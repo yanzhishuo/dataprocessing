@@ -50,7 +50,8 @@
            输出是15</td>
       <td>这个也不一定用到，生成年龄，车牌号等需要数字的情况下会用到</td></tr>
 </table>
-## 简单基本的，没有用类的代码：地址在/hd4T/dialog_data_stage_2_variation/code/genexample
+
+## 简单基本的，没有用类的代码：地址在/hd4T/dialog_data_stage_2_variation/code/genexample  
 <table>
 <tr>
       <th>genuse.py</th>
